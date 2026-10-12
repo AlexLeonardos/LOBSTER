@@ -1,0 +1,8 @@
+# LOBSTER sequence-purchasing algorithm -- runtime dependencies.
+#
+# The algorithm (design -> validate -> annotate -> order) uses only the Python
+# standard library.  There are no third-party package dependencies to install.
+#
+#   - Python >= 3.8
+#
+# Nothing to `pip install`. This file remains for documentation.
